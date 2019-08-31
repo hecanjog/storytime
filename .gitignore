@@ -1,0 +1,17 @@
+__pycache__
+*.py[cod]
+*$py.class
+
+*.wav
+*.flac
+*.png
+*.mp3
+
+*.log
+*.db
+*.json
+*.pdf
+
+*.swp
+*.swn
+*.swo
